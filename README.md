@@ -1,3 +1,5 @@
 # PROYECTO-2
 ### SOLICITUD A PERPLEXITY
 Necesito que explore intensamente en la ciudad de posadas, misiones, ciudad fronteriza, a las dificultades que se presentan en los alumnos de la secundaria diurna, específicamente en el rango etario de 13 a 17 años. Tengo la hipótesis de que el fracaso escolar y problemas como faltar a clases, repetincia, deserción escolar, esta correlacionada con el mal uso de la tecnología, esto es adicción como enfermedad a la tecnología, pero además se vuelven agnósticos, por ser demasiados hedonistas, a esto el no tener un futuro creíble se retraen al consumo de drogas. Además, el contexto de la pobreza, la falta de recursos y accesos a un mejor bienestar para su educación, son excluidos por sus pares y en general por la comunidad.
+### PRESENTACIÓN EN GAMMA
+[[PRESENTACIÓN-COMPARTIR](https://gamma.app/docs/Dificultades-Educativas-en-la-Secundaria-de-Posadas-Misiones-c81xeq5qlsh9p70)]
